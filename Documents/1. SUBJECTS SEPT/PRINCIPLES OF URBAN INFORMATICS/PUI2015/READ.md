@@ -1,0 +1,1 @@
+![In this exercise we add a text into the image](Image_tvara.png)
