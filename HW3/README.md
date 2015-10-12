@@ -1,8 +1,6 @@
-#ReadmeHW3
+Description HW3
 
-I worked with
-
-Alejandro Porcel, Alexis Soto.
+Worked with Alejandro Porcel, Alexis Soto.
 
 My files are 
 
