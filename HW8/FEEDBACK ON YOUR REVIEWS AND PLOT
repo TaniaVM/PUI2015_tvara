@@ -1,0 +1,51 @@
+your reviews were fine 10/10
+
+NOTES ON YOUR PLOT
+==================
+[!alt text](Average%20Income_Men%20and%20Women%20Per%20Race%20U.S.A..pdf)
+
+the 3d is making the plot extremely hard to read. furthermore it is not needed since the third dimension is redundant with the color. the slope of the lines cannot be read clearly due to the perspective. 
+
+axis labels X,Y,Z should be changed to meaningful labels
+
+the orange label is very hard to read. 
+
+the points are larger than needed. in fact they are redundant with the line, though they may add readability to it they would be better smaller. 
+
+the horizontal grid is not needed as the value are categorical, and in fact it seem to be deformed in a way that i dont understand
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+==============================
+
+
+tick and axis labels are too small
+
+the colors indicate the structure in the data nicely but the three shades are not distinguishable by people affected by the most common color blind variety
+
+in general the default 3 datapoints in the legend should be substitute with a single point, as they are redundant, but in this case since the datapoints are small to allow to see the overlapping structure (presumably) the three datapoints are justified. 
+
+10^0 should be replaced with 1, 10^1 with 10
+
+meo342
+=======
+
+colors are nicely separable by color blind people
+
+notation on the y axis is readable and major and minor ticks help readability but displaying a lot of info but avoiding crowdedness
+
+the background color for the legend is distracting capturing too much attention
+
+
+DC3445
+======
+
+tick labels too small
+
+title too small
+
+legend too small
+
+too much empty space (remember tufte's rules): the axis could be cut at the bottom and left
+
+nicely color-blind compliant and the colors nicely show some structure in the data
