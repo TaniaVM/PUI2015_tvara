@@ -10,9 +10,5 @@ My contribution was:
 4.	Making analysis of trip duration in the Moon days before running the program to find if these days has a difference over the other days.
 
 
-Worked with Alexis Soto and Alejandro Porcel
-My contribution was:
-  1. Work most part in the first question, the number 2 and 3, I received help from my team,  and follow the notebooks.
-
     
 Extra library  used: Seaborn 
